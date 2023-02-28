@@ -15,5 +15,5 @@ function msg() {
         alert("Please Write Your Name");
         return false
     }
-    window.open("https://catalog-of-watches.netlify.app/")
+    window.open("https://watches-catalog.netlify.app")
 };
